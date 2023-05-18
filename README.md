@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabrieltdsc
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning PHP, JS and HTML
 - 📫 How to reach me g4brieltdsc@gmail.com
 
 <!---
